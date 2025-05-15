@@ -1,6 +1,9 @@
 # Invoice Generator
 
+
 A flexible and customizable invoice generator that supports multiple themes and formats.
+
+[GitHub Repository](https://github.com/encoresky/invoice-generator)
 
 ## Features
 
